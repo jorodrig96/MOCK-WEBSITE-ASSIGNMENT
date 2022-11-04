@@ -10,6 +10,7 @@ body {
     padding: 15px;
     font-weight: 500;
     border: solid 1px;
+
 }
 
 img {
@@ -65,4 +66,5 @@ h3 {
 
 #logs {
     margin-top: 50px;
+
 }
