@@ -1,0 +1,82 @@
+body {
+    justify-content: center;
+    text-align: center;
+}
+
+#top-of-page {
+    background-color: rgba(128, 128, 128, 0.151);
+    font-size: large;
+    text-align: center;
+    padding: 15px;
+    font-weight: 500;
+    border: solid 1px;
+}
+
+img {
+    box-sizing: inherit;
+    height: 105px;
+    margin-top: 20px;
+}
+
+#sign-in {
+    font-size: 3.3em;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+#csulb-sign-in {
+    color:rgb(74, 3, 74);
+}
+
+h3 {
+    font-size: large;
+    font-weight: 250;
+}
+
+#google-sign-in {
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: 500;
+    color: blue;
+    width: 40%;
+    background-color: white;
+    padding: 5px;
+    padding-left: 15px;
+    border: solid 2.5px;
+    border-color: blue;
+    border-radius: 7px;
+}
+
+#apple-sign-in {
+    margin-top: 18px;
+    font-size: x-large;
+    font-weight: 500;
+    width: 40%;
+    background-color: white;
+    padding: 5px;
+    padding-left: 15px;
+    border: solid 2.5px;
+    border-radius: 7px;
+}
+
+.lines {
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: larger;
+}
+
+#logs {
+    margin-top: 50px;
+    margin-right: 14em;
+}
+
+.inputs {
+    margin-top: 18px;
+    t-size:;
+    font-weight: 500;
+    width: ;
+    background-color: white;
+    padding: 5
+    border: solid 2.5pfonx;
+    border-radius: 7px;
+}
